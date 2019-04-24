@@ -19,3 +19,11 @@
 - A notebook of our analysis
 
 - Tidy Data Set
+
+
+# Thoughts
+- Holt, Prophet
+- Calorie/Step to check for running
+- Active Calories minus burned calories
+  - which should be flat
+  
