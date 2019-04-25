@@ -26,4 +26,7 @@
 - Calorie/Step to check for running
 - Active Calories minus burned calories
   - which should be flat
-  
+
+
+# Link to Slides
+https://docs.google.com/presentation/d/1gMCkyRJLpfmD9cURy1tTzWwyfAj5II2PThHhtw8tWeo/edit#slide=id.g56b84f727d_0_276
